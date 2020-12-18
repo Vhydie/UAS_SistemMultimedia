@@ -3,10 +3,6 @@
 
 
 # KODE
-# KODE
-# KODE
-# KODE
-# KODE
 
 Bagian kode terdiri dari:
 - UAS_Nomor_1.py
@@ -17,11 +13,6 @@ Bagian kode terdiri dari:
 
 
 
-# INPUT CITRA
-# INPUT CITRA
-# INPUT CITRA
-# INPUT CITRA
-# INPUT CITRA
 # INPUT CITRA
 
 Gambar yang digunakan sebagai input untuk kode UAS_Nomor_1.py terdiri dari:
@@ -40,10 +31,6 @@ Gambar yang digunakan sebagai input untuk kode UAS_Nomor_1.py terdiri dari:
 
 
 
-# OUTPUT CITRA
-# OUTPUT CITRA
-# OUTPUT CITRA
-# OUTPUT CITRA
 # OUTPUT CITRA
 
 Hasil pemrosesan untuk kode UAS_Nomor_1.py terdiri dari:
